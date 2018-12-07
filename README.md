@@ -30,7 +30,7 @@
     </head>
     <body>
         
-        <h1  >SANTA FE, NEW MEXICO </h1>
+        <h1  >SANTA FE, NEW MEXICO<br>ver 1 </h1>
         
         <h2>The City Different</h2>
         <h3>To a 1 hour course on CSS<br>
