@@ -4,11 +4,14 @@
         <meta charset="utf-8">
         <title>Project: Event invite</title>
         <style>
-        h1 {color: red; background-color: yellow; font-weight: bold;   text-align: center; }    
+        h1 {color: red; background-color: yellow; font-weight: bold; font: 20px;   text-align: center; }    
         h2 {color: black;
             background-color: YELLOW;
+            text-align: center; font-family: cursive,monospace;}
+        h3 {color: black;
+            background-color: tan;
             text-align: center;}
-        
+            
             #donuts{background-color: LIGHTblue; 
             font-family: cursive,monospace;}
       
@@ -27,14 +30,14 @@
     </head>
     <body>
         
-        <h1  >SANTA FE, NEW MEXICO</h1>
+        <h1  >SANTA FE, NEW MEXICO </h1>
         
-        
-        <h2>To a 1 hour course on CSS<br>
+        <h2>The City Different</h2>
+        <h3>To a 1 hour course on CSS<br>
             On Tuesday Decmeber 3rd<br>
             at 10 am<br>
             In Conference Room D-3
-        </h2>
+        </h3>
         <p id="donuts"> Coffee and Donuts Provided</p>
         
         <p>The agenda:</p>
