@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Project: Event invite</title>
+        <title>Project: Santa Fe</title>
         <style>
         h1 {color: red; background-color: yellow; font-weight: bold; font: 20px;   text-align: center; }    
         h2 {color: black;
