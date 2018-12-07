@@ -4,9 +4,9 @@
         <meta charset="utf-8">
         <title>Project: Event invite</title>
         <style>
-        h1 {color: blue; background-color: tan; font-weight: bold;   text-align: center; }    
-        h2 {color: red;
-            background-color: rgb(199, 199, 112);
+        h1 {color: red; background-color: yellow; font-weight: bold;   text-align: center; }    
+        h2 {color: black;
+            background-color: YELLOW;
             text-align: center;}
         
             #donuts{background-color: LIGHTblue; 
@@ -27,9 +27,7 @@
     </head>
     <body>
         
-        <h1 
-      
-        >You're invited!</h1>
+        <h1  >SANTA FE, NEW MEXICO</h1>
         
         
         <h2>To a 1 hour course on CSS<br>
